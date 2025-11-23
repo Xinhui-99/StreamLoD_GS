@@ -8,7 +8,7 @@
 
 ### 0. Dependencies
 
-We have only tested on Linux environments with CUDA 11.8+ compatible systems. 
+We have only tested on Linux environments with CUDA 11.6+ compatible systems. 
 
 ### Clone and Setup Repo
 
