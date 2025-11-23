@@ -1,0 +1,17 @@
+{
+    "average_metrics": {
+        "PSNR (Test)": 21.39,
+        "SSIM (Test)": 0.82,
+        "LPIPS (Test)": 0.26,
+        "Size (MB)": 0.16,
+        "Frame time": 1.72
+    },
+    "statistics": {
+        "total_files": 6,
+        "successful_reads": 1,
+        "failed_reads": 5,
+        "source_files": [
+            "/mnt/dongxu-fs2/data-ssd/xinhuiliu/demo/3DGStream/StreamLoD/StreamLoD1101_all/output_dynerf_exp/output_sparse30/cook_spinach3_r0.0_llff6_eprest10/avg_metrics.json"
+        ]
+    }
+}

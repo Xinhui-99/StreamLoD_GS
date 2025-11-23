@@ -1,0 +1,19 @@
+{
+    "average_metrics": {
+        "PSNR (Test)": 18.313333333333333,
+        "SSIM (Test)": 0.7733333333333334,
+        "LPIPS (Test)": 0.4033333333333333,
+        "Size (MB)": 0.25333333333333335,
+        "Frame time": 1.0733333333333335
+    },
+    "statistics": {
+        "total_files": 3,
+        "successful_reads": 3,
+        "failed_reads": 0,
+        "source_files": [
+            "/mnt/dongxu-fs2/data-ssd/xinhuiliu/demo/3DGStream/StreamLoD/StreamLoD1101_all/output_meeting_exp/output_sparse30/discussion3_r0.0_llff6_eprest10/avg_metrics.json",
+            "/mnt/dongxu-fs2/data-ssd/xinhuiliu/demo/3DGStream/StreamLoD/StreamLoD1101_all/output_meeting_exp/output_sparse30/trimming3_r0.0_llff6_eprest10/avg_metrics.json",
+            "/mnt/dongxu-fs2/data-ssd/xinhuiliu/demo/3DGStream/StreamLoD/StreamLoD1101_all/output_meeting_exp/output_sparse30/vrheadset3_r0.0_llff6_eprest10/avg_metrics.json"
+        ]
+    }
+}

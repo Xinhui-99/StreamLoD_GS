@@ -1,0 +1,44 @@
+name: queenlod
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - cudatoolkit=11.6
+  - plyfile=0.8.1
+  - python=3.7.13
+  - pip=22.3.1
+  - pytorch=1.12.1
+  - torchaudio=0.12.1
+  - torchvision=0.13.1
+  - tqdm
+  - pip:
+    - submodules/diff-gaussian-rasterization
+    - submodules/gaussian-rasterization-grad
+    - submodules/simple-knn
+
+
+    
+     (MB)=0.6anchor_grads [23/10 09:49:00]
+torch.Size([22167]) [23/10 09:49:00]
+torch.Size([221670, 1]) [23/10 09:49:00]
+torch.Size([221670]) [23/10 09:49:00]
+grad_dist.size() [23/10 09:49:00]
+torch.Size([22167]) [23/10 09:49:00]
+torch.Size([22167, 1]) [23/10 09:49:00]
+0 [23/10 09:49:00]
+tensor(7512, device='cuda:0') [23/10 09:49:00]
+0 [23/10 09:49:00]
+tensor(123811) [23/10 09:49:00]
+1 [23/10 09:49:00]
+tensor(7977, device='cuda:0') [23/10 09:49:00]
+1 [23/10 09:49:00]
+tensor(5789079) [23/10 09:49:00]
+2 [23/10 09:49:00]
+tensor(6186, device='cuda:0') [23/10 09:49:00]
+2 [23/10 09:49:00]
+tensor(4865729) [23/10 09:49:00]
+3 [23/10 09:49:00]
+tensor(492, device='cuda:0') [23/10 09:49:00]
+3 [23/10 09:49:00]
+tensor(24328) [23/10 09:49:00]

@@ -1,0 +1,20 @@
+{
+    "average_metrics": {
+        "PSNR (Test)": 19.0725,
+        "SSIM (Test)": 0.765,
+        "LPIPS (Test)": 0.3425,
+        "Size (MB)": 0.11500000000000002,
+        "Frame time": 0.9025
+    },
+    "statistics": {
+        "total_files": 6,
+        "successful_reads": 4,
+        "failed_reads": 2,
+        "source_files": [
+            "/mnt/dongxu-fs2/data-ssd/xinhuiliu/demo/3DGStream/StreamLoD/StreamLoD1101_all/output_dynerf_exp/output_sparse30/coffee_martini3_r0.0_llff8_eprest6/avg_metrics.json",
+            "/mnt/dongxu-fs2/data-ssd/xinhuiliu/demo/3DGStream/StreamLoD/StreamLoD1101_all/output_dynerf_exp/output_sparse30/cook_spinach3_r0.0_llff8_eprest6/avg_metrics.json",
+            "/mnt/dongxu-fs2/data-ssd/xinhuiliu/demo/3DGStream/StreamLoD/StreamLoD1101_all/output_dynerf_exp/output_sparse30/flame_salmon_13_r0.0_llff8_eprest6/avg_metrics.json",
+            "/mnt/dongxu-fs2/data-ssd/xinhuiliu/demo/3DGStream/StreamLoD/StreamLoD1101_all/output_dynerf_exp/output_sparse30/sear_steak3_r0.0_llff8_eprest6/avg_metrics.json"
+        ]
+    }
+}

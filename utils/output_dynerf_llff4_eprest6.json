@@ -1,0 +1,17 @@
+{
+    "average_metrics": {
+        "PSNR (Test)": 19.86,
+        "SSIM (Test)": 0.77,
+        "LPIPS (Test)": 0.33,
+        "Size (MB)": 0.18,
+        "Frame time": 1.66
+    },
+    "statistics": {
+        "total_files": 6,
+        "successful_reads": 1,
+        "failed_reads": 5,
+        "source_files": [
+            "/mnt/dongxu-fs2/data-ssd/xinhuiliu/demo/3DGStream/StreamLoD/StreamLoD1101_all/output_dynerf_exp/output_sparse30/coffee_martini3_r0.0_llff4_eprest6/avg_metrics.json"
+        ]
+    }
+}
