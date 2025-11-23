@@ -1,4 +1,4 @@
-name: queenlod
+name: streamlod_gs
 channels:
   - pytorch
   - conda-forge
