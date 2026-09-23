@@ -147,4 +147,15 @@ python render_fvv.py --config configs/dynerf.yaml  -s data/dynerf/coffee_martini
 ```
 
  
- 
+ **Citation**
+
+If you use this code, please cite:
+```python
+@article{liu2026lod,
+  title={LoD-Structured 3D Gaussian Splatting for Streaming Video Reconstruction},
+  author={Liu, Xinhui and Wang, Can and Liu, Lei and Chen, Zhenghao and Jiang, Wei and Wang, Wei and Xu, Dong},
+  journal={arXiv preprint arXiv:2601.18475},
+  year={2026}
+}
+```
+
