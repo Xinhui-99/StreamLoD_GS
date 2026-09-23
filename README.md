@@ -1,8 +1,11 @@
 # LoD-Structured 3D Gaussian Splatting for Streaming Video Reconstruction
 
+### [Project Page](https://xinhui-99.github.io/StreamLoDGS/) | [Paper](https://arxiv.org/pdf/2601.18475) 
+
+[Xinhui Liu](https://scholar.google.com/citations?hl=zh-CN&user=9SPgDacAAAAJ&view_op=list_works&sortby=pubdate/), [Can Wang](https://cassiepython.github.io/), [Lei Liu](https://scholar.google.cz/citations?user=3FsuonEAAAAJ&hl=zh-CN/), [Zhenghao Chen](https://www.newcastle.edu.au/profile/zhenghao-chen/), [Wei Jiang](https://scholar.google.com/citations?user=c8koDJgAAAAJ&hl=zh-CN&oi=ao/), [Wei Wang](https://scholar.google.com/citations?user=aLii7l0AAAAJ&hl=zh-CN&oi=ao/), [Dong Xu](https://www.ai.hku.hk/people/academic-staff/dongxu/) ✉️ <br />
+
 **StreamLoD-GS** StreamLoD-GS, an LoD-based Gaussian Splatting framework designed specifically for SFVV. Our approach includes: 1) an Anchor- and Octree-based LoD-structured 3DGS with a hierarchical Gaussian dropout technique to ensure efficient and stable optimization while maintaining high-quality rendering; 2) a GMM-based motion partitioning mechanism that separates dynamic and static content, refining dynamic regions while preserving background stability; and 3) a quantized residual refinement framework that reduces storage requirements without compromising visual quality. Extensive experiments demonstrate that StreamLoD-GS achieves competitive or state-of-the-art performance in terms of quality, efficiency, and storage, outperforming related methods.
 
- 
  
 ## Code Setup
 
@@ -146,6 +149,11 @@ python render.py -s data/dynerf/coffee_martini -m ./output/coffee_martini_traine
 python render_fvv.py --config configs/dynerf.yaml  -s data/dynerf/coffee_martini -m ./output/coffee_martini_trained
 ```
 
+## 🙏 Acknowledgments
+
+Thanks to these great repositories: [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting), [Octree-GS](https://github.com/city-super/Octree-GS).
+
+---
  
  **Citation**
 
