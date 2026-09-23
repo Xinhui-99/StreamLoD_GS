@@ -1,5 +1,7 @@
 # LoD-Structured 3D Gaussian Splatting for Streaming Video Reconstruction
 
+
+
 ### [Project Page](https://xinhui-99.github.io/StreamLoD_GS_progect_page/) | [Paper](https://arxiv.org/pdf/2601.18475) 
 
 [Xinhui Liu](https://scholar.google.com/citations?hl=zh-CN&user=9SPgDacAAAAJ&view_op=list_works&sortby=pubdate/), [Can Wang](https://cassiepython.github.io/), [Lei Liu](https://scholar.google.cz/citations?user=3FsuonEAAAAJ&hl=zh-CN/), [Zhenghao Chen](https://www.newcastle.edu.au/profile/zhenghao-chen/), [Wei Jiang](https://scholar.google.com/citations?user=c8koDJgAAAAJ&hl=zh-CN&oi=ao/), [Wei Wang](https://scholar.google.com/citations?user=aLii7l0AAAAJ&hl=zh-CN&oi=ao/), [Dong Xu](https://www.ai.hku.hk/people/academic-staff/dongxu/) ✉️ <br />
